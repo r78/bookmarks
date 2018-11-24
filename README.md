@@ -5,6 +5,7 @@
 * [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html)
 * [Real World Haskell](http://book.realworldhaskell.org/read/)
 * [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/chapters)
+* [Mostly adequate guide to FP in javascript](https://github.com/MostlyAdequate/mostly-adequate-guide)
 ## OOP
 ### Smalltalk
 * [Stef's Free Online Smalltalk Books](http://stephane.ducasse.free.fr/FreeBooks.html)
