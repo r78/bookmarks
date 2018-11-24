@@ -15,3 +15,4 @@
 * [Smalltalk-80: The Language and its Implementation](http://sdmeta.gforge.inria.fr/FreeBooks/BlueBook/Bluebook.pdf)
 ## MISC
 * [NAND 2 Tetris](https://www.nand2tetris.org/)
+* [A list of practical projects that anyone can solve in any programming language](https://github.com/karan/Projects)
