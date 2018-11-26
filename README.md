@@ -3,6 +3,7 @@
 * [Programming Languages: Application and Interpretation](https://cs.brown.edu/~sk/Publications/Books/ProgLangs/2007-04-26/)
 * [How to Design Programs, Second Edition](https://htdp.org/2018-01-06/Book/)
 * [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html)
+* [Beautiful Racket](https://beautifulracket.com/)
 * [Real World Haskell](http://book.realworldhaskell.org/read/)
 * [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/chapters)
 * [Mostly adequate guide to FP in javascript](https://github.com/MostlyAdequate/mostly-adequate-guide)
@@ -16,3 +17,4 @@
 ## MISC
 * [NAND 2 Tetris](https://www.nand2tetris.org/)
 * [A list of practical projects that anyone can solve in any programming language](https://github.com/karan/Projects)
+* [LLVM Tutorial](https://llvm.org/docs/tutorial/)
