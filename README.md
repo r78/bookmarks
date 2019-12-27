@@ -10,6 +10,8 @@
 ## JavaScript
 * [JavaScript Allongé](https://leanpub.com/javascriptallongesix/read)
 * [Exploring JS: JavaScript books for programmers](http://exploringjs.com/)
+* [Speaking JavaScript](http://speakingjs.com/es5/index.html)
+* [Exploring ES6](https://exploringjs.com/es6/)
 ## OOP
 ### Smalltalk
 * [Stef's Free Online Smalltalk Books](http://stephane.ducasse.free.fr/FreeBooks.html)
@@ -18,3 +20,5 @@
 * [NAND 2 Tetris](https://www.nand2tetris.org/)
 * [A list of practical projects that anyone can solve in any programming language](https://github.com/karan/Projects)
 * [LLVM Tutorial](https://llvm.org/docs/tutorial/)
+## Challenges
+* [Learn Algorithms and Visualize Coding Javascript Interview Questions - AlgoDaily Software](https://algodaily.com/challenges/)
