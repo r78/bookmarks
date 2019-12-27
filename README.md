@@ -12,6 +12,7 @@
 * [Exploring JS: JavaScript books for programmers](http://exploringjs.com/)
 * [Speaking JavaScript](http://speakingjs.com/es5/index.html)
 * [Exploring ES6](https://exploringjs.com/es6/)
+* [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS/blob/master/README.md)
 ## OOP
 ### Smalltalk
 * [Stef's Free Online Smalltalk Books](http://stephane.ducasse.free.fr/FreeBooks.html)
